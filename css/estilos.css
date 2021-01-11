@@ -43,3 +43,14 @@ body {
 #post {
   padding: 1em;
 }
+footer {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(63, 63, 99);
+}
+footer h1 {
+  margin: 0;
+  padding: 10px;
+  color: white;
+  text-align: center;
+}
